@@ -1,6 +1,7 @@
 # 📝 Taghos Code Challenge
 
 Welcome to the code challenge to join Taghos.
+
 This code challenge aims to test your capabilities and we want to know how you structure software, how you code a project, how you document, how you test and how you deliver.
 
 # 🧰  About our stack
