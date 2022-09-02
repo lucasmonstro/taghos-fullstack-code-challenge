@@ -8,17 +8,17 @@ This code challenge aims to test your capabilities and we want to know how you s
 In our daily lives, we use the following tools to develop our wonderful projects:
 
 - Backend
--- Node.js(NestJS)
--- GraphQL/REST
--- PostgreSQL
--- Redis
--- Kafka
--- Jest
+  - Node.js(NestJS)
+  - GraphQL/REST
+  - PostgreSQL
+  - Redis
+  - Kafka
+  - Jest
 
 - Frontend
--- Modern React
--- Material UI
--- Cypress
+  - Modern React
+  - Material UI
+  - Cypress
 
 # 🚀 Lets talk about Features
 
